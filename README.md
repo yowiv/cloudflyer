@@ -199,3 +199,9 @@ Content-Type: application/json
   }
 }
 ```
+
+# Credits
+Developers: [@zetxtech](https://github.com/zetxtech)
+
+Special thanks to the following service:
+- Black & White AI API Service (by Linux.do @ouyangqiqi)
